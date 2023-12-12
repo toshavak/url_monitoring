@@ -20,7 +20,7 @@ Make sure you have a Telegram bot created and obtain the token. Add your bot to 
 ## Usage
 
 1. Install the required dependencies using `pip install requests pyttsx3 python-telegram-bot`.
-2. Run the script using `python script_name.py`.
+2. Run the script using `python main.py`.
 3. The script will continuously monitor the specified URL and provide notifications on status changes.
 
 ## Notes
